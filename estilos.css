@@ -7,8 +7,8 @@
     justify-content: center; /*al lado derecho*/
     /*justify-content: space-between;*/
     flex-wrap: wrap;
-    align-items: center;
-    align-content: flex-start;
+    align-items: flex-end;
+    align-content: center;
     height: 700px;
     background-color: rgb(212, 228, 255);
 } 
