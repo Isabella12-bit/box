@@ -1,15 +1,19 @@
 .contenedor{
     display: flex;
-}
+} 
 
 .caja-1{
     width: 250px;
     height: 350px;
+    font-size: 85px;
+    color: white;
     background-color: blue;
 }
 
 .caja-2{
     width: 250px;
     height: 350px;
+    font-size: 85px;
+    color: white;
     background-color: red;
 }
